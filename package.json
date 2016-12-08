@@ -1,6 +1,6 @@
 {
-  "name": "diskusage",
-  "version": "0.1.5",
+  "name": "theeye-node-diskusage",
+  "version": "0.1.6",
   "description": "Get total diskspace and free diskspace using bindings around platform specific calls.",
   "main": "index.js",
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jduncanator/node-diskusage.git"
+    "url": "https://github.com/theeye-io-team/node-diskusage.git"
   },
   "keywords": [
     "disk",
@@ -29,9 +29,12 @@
     "space"
   ],
   "author": "jduncanator",
+  "contributors": [
+    "Facundo Gonzalez <facugon@interactar.com>"
+  ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jduncanator/node-diskusage/issues"
+    "url": "https://github.com/theeye-io-team/node-diskusage/issues"
   },
-  "homepage": "https://github.com/jduncanator/node-diskusage"
+  "homepage": "https://github.com/theeye-io-team/node-diskusage"
 }
